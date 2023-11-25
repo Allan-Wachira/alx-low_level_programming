@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * @n: this is the bit.
- * @index: the index function is to get the value at - indices start at 0.
  * get_bit - this gets the value of a bit at a given index.
- *
+ * @index: the index function is to get the value at - indices start at 0.
+ * @n: this is the bit.
  * Return: should return if an error occurs - -1.
  *         Otherwise - The value of bit at index.
  */
