@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * @n: this is the number to be printed in binary.
  * print_binary - this prints the binary representation of a number.
+ * @n: this is the number to be printed in binary.
  */
+
 void print_binary(unsigned long int n)
 {
 	if (n > 1)
