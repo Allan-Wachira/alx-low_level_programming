@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * @n: A pointer to the bit.
- * @index: this is the index to set the value at - indices start at 0.
  * set_bit - this prompt sets the value of a bit at a given index to 1.
- *
+ * @n: this is a pointer to the bit.
+ * @index: this is the index to set the value at - indices start at 0.
  * Return: should return if an error occurs - -1.
  *         Otherwise - 1.
  */
