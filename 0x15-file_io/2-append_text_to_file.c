@@ -2,7 +2,7 @@
 
 /**
  * append_text_to_file - this prompt appends text at the end of a file.
- * @ text_content: this is the string to add to the end of file.
+ * @text_content: this is the string to add to the end of file.
  * @filename: It is a pointer to the name of the file.
  *
  * Return: It should return if the function fails or filename is NULL - -1.
